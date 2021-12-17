@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <h3 align="center">Artificial Intelligence | Continual Learning | Cognitively-Inspired Computation | Deep Learning | Computational Biology</h3>
 
 <p align="center"> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviralchharia/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviral.chharia@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mk7UtHgAAAAJ&hl=en)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviralchharia/)
+![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviral.chharia@gmail.com)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mk7UtHgAAAAJ&hl=en)
 
   <!--
 <a href="https://www.linkedin.com/in/aviralchharia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aviralchharia" height="30" width="40" /></a>
