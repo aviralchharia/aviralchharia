@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <em>
-    An undergraduate student in the Mechanical and Computer Science Department at Thapar. Interested broadly in the fields of Artificial Intelligence, Continual/ Life-long Learning, Cognitively-Inspired Computation, Deep Learning and Computational Biology.
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; An undergraduate student in the Mechanical and Computer Science Department at Thapar. Interested broadly in the fields of Artificial Intelligence, Continual/ Life-long Learning, Cognitively-Inspired Computation, Deep Learning and Computational Biology.
   </em> 
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while Hoping and Hustling!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
