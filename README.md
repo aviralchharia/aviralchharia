@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Aviral Chharia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">Artificial Intelligence | Continual Learning | Cognitively-Inspired Computation | Deep Learning | Computational Biology</h3>
-<p align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviralchharia/)
+<p align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviralchharia/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviral.chharia@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mk7UtHgAAAAJ&hl=en)
 
