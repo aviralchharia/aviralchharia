@@ -15,7 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-An undergraduate student in the Mechanical and Computer Science Department at Thapar. Interested broadly in the fields of Artificial Intelligence, Continual/ Life-long Learning, Cognitively-Inspired Computation, Deep Learning and Computational Biology.
+
+
+
+<hr>
+<h1 align="center">Hi, I'm Aviral Chharia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h3 align="center">Artificial Intelligence | Continual Learning | Cognitively-Inspired Computation | Deep Learning | Computational Biology</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/aviralchharia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"/></a>
+</p>
+</p>
+
+
+<p align="center">
+  <em>
+    An undergraduate student in the Mechanical and Computer Science Department at Thapar. Interested broadly in the fields of Artificial Intelligence, Continual/ Life-long Learning, Cognitively-Inspired Computation, Deep Learning and Computational Biology.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while Hoping and Hustling!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviralchharia/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviral.chharia@gmail.com)
