@@ -11,30 +11,27 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+- 💻 I'm highly interested ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi, I'm Aviral Chharia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">Artificial Intelligence | Continual Learning | Cognitively-Inspired Computation | Deep Learning | Computational Biology</h3>
 <p align="center"> 
 
-
-<p align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviralchharia/)</p>
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviral.chharia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviralchharia/) 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mk7UtHgAAAAJ&hl=en)
-
   
-  <!--
+<!--
 <a href="https://www.linkedin.com/in/aviralchharia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aviralchharia" height="30" width="40" /></a>
 <a href = "mailto: aviral.chharia@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href="https://scholar.google.com/citations?user=mk7UtHgAAAAJ&hl=en" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" height="30" width="40" /></a>
 -->
 </p>
 </p>
-
 
 <p align="center">
   <em>
@@ -44,11 +41,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while Hoping and Hustling!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<!-- 
-  💻 I'm highly interested in cutting-edge research.
--->
 - ⚡ Find more about me at my [website](https://aviralchharia.github.io).
-- 👯 Currently open for Research opportunities and collaborations.
+- 👯 Currently open to Research opportunities and collaborations.
 
 ![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviralchharia&hide=stars&show_icons=true&count_private=true)
 
