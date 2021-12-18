@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Aviral Chharia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center">Artificial Intelligence | Continual Learning | Cognitively-Inspired Computation | Deep Learning | Computational Biology</h3>
 <p align="center"> 
-<img  align='right' src="https://github.com/aviralchharia/aviralchharia/blob/main/Noisy_Moon.gif" width="350" >
+<img  align='right' src="https://github.com/aviralchharia/aviralchharia/blob/main/Noisy_Moon.gif" width="325" >
   
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aviral.chharia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aviralchharia/) 
