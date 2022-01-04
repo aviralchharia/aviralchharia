@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">&nbsp; An undergraduate student in the Mechanical and Computer Science Department at Thapar. Interested broadly in the fields of Artificial Intelligence, Continual/ Life-long Learning, Cognitively-Inspired Computation, Deep Learning and Computational Biology.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while Hoping and Hustling!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while Hoping and Hustling!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /> -->
 </p>
 
 - ⚡ Find more about me at my [website](https://aviralchharia.github.io).
