@@ -47,10 +47,11 @@ Here are some ideas to get you started:
 
 ![Aviral's github stats](https://github-readme-stats.vercel.app/api?username=aviralchharia&hide=stars&show_icons=true&count_private=true)
 
- <p align="center"> 
+<!-- <p align="center"> 
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/aviralchharia/count.svg" />
 </p>  
+-->
 
 <!-- ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=aviralchharia&repo=aviralchharia&countColorcountColor&countColor=%237B1E7B)
 -->
