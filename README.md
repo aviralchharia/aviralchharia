@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Aviral Chharia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"> </h1>
+<h1 align="center">Hi, I'm Aviral Chharia </h1>
 <h3 align="center">Artificial Intelligence | Continual Learning | Cognitively-Inspired Computation | Deep Learning | Computational Biology</h3>
 <p align="center"> 
 <img  align='right' src="https://github.com/aviralchharia/aviralchharia/blob/main/Noisy_Moon.gif" width="325" >
